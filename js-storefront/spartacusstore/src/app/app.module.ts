@@ -13,7 +13,7 @@ import { B2cStorefrontModule } from '@spartacus/storefront';
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     B2cStorefrontModule.withConfig({
       backend: {
-        occ: {baseUrl: 'https://api.cb6zx0i-cultbeaut1-go-away-public.model-t.cc.commerce.ondemand.com',
+        occ: {baseUrl: 'https://api.cb6zx0i-cultbeaut1-d1-public.model-t.cc.commerce.ondemand.com',
           prefix: '/rest/v2/'
         }
       },
